@@ -1,4 +1,6 @@
-Bitcoin Core integration/staging tree
+WWW Core integration/staging tree
+<MODMINE> "Bitcoin Core integration/staging tree" = "WWW Core integration/staging tree" </MODMINE> 
+
 =====================================
 
 https://bitcoincore.org
